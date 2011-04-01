@@ -11,8 +11,8 @@ LANGUAGES=en_US
 
 # Package info
 pkg [
-    name=qx_helper
-    desc="X launcher helper"
+    name=gta02-gsm-bt-fix
+    desc="Fixes harwdare setting for bluetooth GSM calls"
     license=GPLv2
     version=1.0
     maintainer="Radek Polak <psonek2@seznam.cz>"
